@@ -63,5 +63,3 @@ password requisite pam_pwquality.so retry=3
 ### Ejercicio
     Contraseña debil (min.8, [0-9], [A-Z], *pepe)
     Contraseña media (min.12, [0-9], [A-Z], [a-z], [#,$...], *pepe)
-
-Restricciones, contraseña1 que falla, pwscore, contraseña2 buena, pwscore
